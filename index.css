@@ -1,22 +1,22 @@
-h1{
-    text-align: center;
+h1 {
+  text-align: center;
 }
 
-.ac-input{
-    text-align: center;
+.ac-input {
+  text-align: center;
 }
 
 #autocomplete-list {
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
-  }
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
 
-  #autocomplete-list li {
-    padding: 5px;
-    cursor: pointer;
-  }
+#autocomplete-list li {
+  padding: 5px;
+  cursor: pointer;
+}
 
-  #autocomplete-list li:hover {
-    background-color: #f1f1f1;
-  }
+#autocomplete-list li:hover {
+  background-color: #f1f1f1;
+}
